@@ -7,5 +7,5 @@ Redmine::Plugin.register :redmine_textarea_tab do
   name 'readmine textarea tab'
   author 'othree'
   description 'allow tab key to insert \t in textarea'
-  version '0.0.1'
+  version '1.0'
 end
